@@ -58,7 +58,7 @@ describe('Test Suite 2', function() {
     describe('Scenario 1', function() {
 
         it('Equals Check', function() {
-            expect(answer).to.equal(42);
+            expect(answer).to.equal(43);
         })
 
         it('Expected Check', function() {
